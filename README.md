@@ -1,22 +1,15 @@
 # AbuAasim-Nomani
 Personal Details
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm AbuAasim Nomani</h1>
 
-<div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://github.com/asimnomani">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  <a href="https://linkedin.com/in/Abu Aasim Nomani">
   </a>
 </p>
 
@@ -64,21 +57,7 @@ Personal Details
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
----
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
