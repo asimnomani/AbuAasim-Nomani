@@ -7,7 +7,6 @@ Personal Details
 
 <p align="center">
   <a href="https://github.com/asimnomani">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/Abu Aasim Nomani">
   </a>
